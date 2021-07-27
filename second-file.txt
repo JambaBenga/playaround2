@@ -1,0 +1,1 @@
+This is the second file in the clone. It shall disturb the git process.
